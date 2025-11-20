@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "auc": 0.9900793650793651,
+    "accuracy": 0.956140350877193
+  },
+  "optimized": {
+    "auc": 0.9947089947089947,
+    "accuracy": 0.956140350877193
+  },
+  "shap_outputs": {
+    "feature_importance_png": "outputs/shap_feature_importance.png",
+    "summary_png": "outputs/shap_summary.png"
+  }
+}
